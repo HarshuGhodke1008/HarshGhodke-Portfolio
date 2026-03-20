@@ -42,11 +42,4 @@ Experience the live version here:
 
 ---
 
-## 📂 Project Structure
-```text
-├── src/
-│   ├── app/
-│   │   ├── components/   # Hero, Education, Skills, Projects, Experience, etc.
-│   │   └── App.tsx       # Main Entry Point
-│   └── styles/           # Global CSS and Tailwind configurations
-└── public/               # Assets and static files
+
